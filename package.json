@@ -1,0 +1,17 @@
+{
+  "name": "laurou-feed",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "populate": "node src/populateDB.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "node-cron": "^3.0.2",
+    "sequelize": "^6.26.0",
+    "sqlite3": "^5.1.2"
+  }
+}

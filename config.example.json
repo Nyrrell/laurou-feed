@@ -1,0 +1,16 @@
+{
+  "webhookURL" : "",
+  "youtubeApiKey" : "",
+  "youtubeChannel" : [
+    {
+      "username" : "",
+      "channelId" : "",
+      "uploadsPlaylistId" : ""
+    },
+    {
+      "username" : "",
+      "channelId" : "",
+      "uploadsPlaylistId" : ""
+    }
+  ]
+}
